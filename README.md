@@ -20,3 +20,6 @@ All topics are presented through simple examples designed to illustrate the fund
  **Lecture 1 | Probability and Bayes' theorem:** probabilities; probability densities; cumulative distribution; frequentist probabilities; the Monty Hall problem. [Notebook 1](notebooks/2026_notebook_1.ipynb)
 
 **Lecture 2 | Bayesian inference:** the Bayesian interpretation; parameter estimation; multiple independent datasets; model selection. [Notebook 2](notebooks/2026_notebook_2.ipynb) 
+
+# Contact
+e-mail: <Costantino.Pacilio@roma1.infn.it>
